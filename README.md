@@ -97,4 +97,5 @@ NSLog(@"copyStr  : %p, %p", _cString, &_cString);
 
 而对于要把NSString类型的字符串赋值给str，那两都没啥区别。不会影响安全性，内存管理也一样。
 
+[github](https://github.com/liuxj/DemoProperty "Title")
 ﻿
